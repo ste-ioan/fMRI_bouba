@@ -1,6 +1,6 @@
 # fMRI_bouba
 
-A collection of Python scripts for analyzing functional MRI data using multivariate pattern analysis (MVPA), representational similarity analysis (RSA), and searchlight methods.
+A collection of Python scripts for analyzing functional MRI data using multivariate pattern analysis (MVPA), representational similarity analysis (RSA), and searchlight methods for the publication "title" published in (...)
 
 ## Scripts Overview
 
@@ -55,7 +55,7 @@ Note: Make sure to adjust file paths and analysis parameters within each script 
 
 ## Data Structure
 
-Scripts expect fMRI data in standard neuroimaging formats (NIFTI) and behavioral data in CSV/TSV format. Detailed data requirements are commented at the top of each script.
+Scripts expect preprocessed fMRI data in standard neuroimaging formats (NIFTI) and behavioral data in CSV/TSV format. Detailed data requirements are commented at the top of each script.
 
 ## Contributing
 
